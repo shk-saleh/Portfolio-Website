@@ -1,0 +1,33 @@
+/* media query for 991 px */
+
+@media (max-width:991px) {
+    
+    
+    .About-me img{
+        
+        clip-path: circle(50% at 50% 50%);
+
+    }
+
+    .Contact-sec .form-control{
+
+        width: 70%;
+    
+    }
+
+
+
+
+
+@media (max-width:776px) {
+    
+
+    
+    .Contact-sec .form-control{
+    
+        width: 100%;
+        
+    }
+    
+    
+}}
